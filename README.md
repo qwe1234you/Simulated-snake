@@ -44,7 +44,7 @@
 3. 等待一两分钟，访问：
 
    ```
-   https://<你的用户名>.github.io/<仓库名>/
+   https://qwe1234you.github.io/Simulated-snake/
    ```
 
    （例如用户名 `alice`、仓库名 `snake`，地址就是 `https://alice.github.io/snake/`）
